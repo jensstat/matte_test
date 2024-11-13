@@ -1,5 +1,13 @@
 # Kapittel 1: Regnerekkefølge, Brøk, Algebra og Likninger
 
+## Læringsmål
+Etter å ha jobbet med dette kapitlet skal du kunne:
+- Følge riktig rekkefølge i utregninger med ulike operasjoner (PEMDAS).
+- Forkorte, utvide og regne med brøker.
+- Forenkle algebraiske uttrykk og løse lineære likninger.
+
+---
+
 ## 1. Regnerekkefølge (PEMDAS)
 For å sikre riktige utregninger i matematiske uttrykk, må vi følge **PEMDAS**-regelen, som forteller rekkefølgen for operasjoner:
 1. **P**arenteser: Gjør utregningene inne i parentesene først.
@@ -26,8 +34,14 @@ Riktig rekkefølge er viktig fordi det sikrer at alle følger samme system for u
 
 ---
 
+### Test Deg Selv
+1. Hva er svaret på `4 + 3 * (2 + 1)`?
+2. Beregn: `(5 + 3) * 2 - 4`
+
+---
+
 ## 2. Brøkregning
-En brøk består av en teller (øverst) og en nevner (nederst) og representerer en del av en helhet. Brøkregning er grunnleggende i å forstå forhold, deling, og prosent.
+En brøk består av en teller (øverst) og en nevner (nederst) og representerer en del av en helhet. Brøkregning er grunnleggende i å forstå forhold, deling og prosent.
 
 ### Grunnleggende Regler
 - **Forkorting av brøker**: Del både teller og nevner med samme tall for å gjøre brøken enklere.
@@ -55,6 +69,13 @@ En brøk består av en teller (øverst) og en nevner (nederst) og representerer 
 
 ---
 
+### Test Deg Selv
+1. Forkort brøken: `15/20`
+2. Legg sammen brøkene: `1/2 + 1/3`
+3. Multipliser brøkene: `3/5 * 4/7`
+
+---
+
 ## 3. Algebra
 Algebra innebærer å bruke bokstaver (variabler) i stedet for tall. Variabler representerer ukjente verdier og brukes til å lage generelle uttrykk og likninger. Det er viktig å kunne forenkle uttrykk og løse oppgaver ved hjelp av algebra.
 
@@ -71,6 +92,12 @@ Algebra innebærer å bruke bokstaver (variabler) i stedet for tall. Variabler r
    
 3. **Multiplisere to uttrykk med parenteser**  
    `(a + 2)(a - 3) = a^2 - 3a + 2a - 6 = a^2 - a - 6`
+
+---
+
+### Test Deg Selv
+1. Forenkle uttrykket: `4x + 3 - 2x + 5`
+2. Bruk distribusjon til å forenkle: `3(y + 2) - 2(y - 1)`
 
 ---
 
@@ -97,6 +124,19 @@ En likning er en matematisk setning som uttrykker at to verdier er like, for eks
    - Del først ut: `2x + 6 = 16`
    - Trekk fra 6: `2x = 10`
    - Del på 2: `x = 5`
+
+---
+
+### Test Deg Selv
+1. Løs likningen: `2x + 4 = 12`
+2. Løs likningen: `3(x - 1) = 9`
+
+---
+
+## Tips og Vanlige Fallgruver
+- **Regnerekkefølge**: Husk at multiplikasjon og divisjon kommer før addisjon og subtraksjon. En vanlig feil er å utføre operasjonene i feil rekkefølge.
+- **Brøkregning**: Bruk alltid fellesnevner når du legger sammen eller trekker fra brøker. En annen vanlig feil er å forkorte brøker uten å sjekke om det er mulig.
+- **Algebra**: Pass på fortegnet når du bruker distribusjon med negative tall, f.eks., `-2(x + 3)` gir `-2x - 6`.
 
 ---
 
@@ -130,9 +170,14 @@ En likning er en matematisk setning som uttrykker at to verdier er like, for eks
 
 ---
 
-**Kommentarer:**
-- **Teori**: Flere detaljer ble lagt til for hvert emne, inkludert hvorfor regnerekkefølgen er viktig og hva variabler representerer i algebra.
-- **Eksempler**: Inkluderte både enkle og mer avanserte eksempler, spesielt for algebra og likninger.
-- **Oppgavebank**: Utvidet med utfordrende oppgaver, inkludert flere trinnvise oppgaver for brøkregning og likninger som krever flere trinn for å løse.
+### Utfordringer
+1. Finn x: `(x + 3)/5 + 2 = (x - 1)/3`
+2. Forenkle: `3(x + 4) - 2(2x - 5) + 4`
+3. Multipliser og forenkle: `(x + 2)(x - 2) - (x - 1)(x + 1)`
 
-Gi beskjed hvis du vil legge til mer avanserte konsepter eller trenger spesifikke forklaringer på noen av delene!
+---
+
+## Refleksjonsspørsmål
+1. Hvorfor er det viktig å følge riktig rekkefølge (PEMDAS) når vi løser matematiske uttrykk?
+2. Hvordan kan brøkregning og algebra være nyttig i hverdagen?
+3. Hvilke strategier kan du bruke når du står fast på en oppgave med flere trinn?
