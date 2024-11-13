@@ -8,8 +8,8 @@
 - **A**ddisjon og **S**ubtraksjon
 
 ### Eksempler
-1. \( 5 + 2 \cdot (3 + 4) = 5 + 2 \cdot 7 = 5 + 14 = 19 \)
-2. \( 3 \cdot (4 + 2) - 2^2 = 3 \cdot 6 - 4 = 18 - 4 = 14 \)
+1. **Eksempel 1**: `5 + 2 * (3 + 4) = 5 + 2 * 7 = 5 + 14 = 19`
+2. **Eksempel 2**: `3 * (4 + 2) - 2^2 = 3 * 6 - 4 = 18 - 4 = 14`
 
 ---
 
@@ -24,9 +24,9 @@ En brøk består av en teller og en nevner, og brukes til å representere deler 
 - **Divisjon**: Snu den andre brøken og multipliser.
 
 ### Eksempler
-1. \( \frac{20}{25} = \frac{4}{5} \) (forkorte brøken)
-2. \( \frac{1}{3} + \frac{1}{6} = \frac{2}{6} + \frac{1}{6} = \frac{3}{6} = \frac{1}{2} \)
-3. \( \frac{2}{5} \cdot \frac{3}{4} = \frac{6}{20} = \frac{3}{10} \)
+1. **Forkorte brøk**: `20/25 = 4/5`
+2. **Addere brøker**: `1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2`
+3. **Multiplisere brøker**: `2/5 * 3/4 = 6/20 = 3/10`
 
 ---
 
@@ -38,28 +38,28 @@ Algebra handler om å arbeide med bokstaver (variabler) i stedet for konkrete ta
 - Bruk distributiv lov for å fjerne parenteser.
 
 ### Eksempler
-1. Forenkle \( 3a + 2a = 5a \)
-2. Multiplisere inn i parentes: \( 2(x + 3) = 2x + 6 \)
+1. Forenkle: `3a + 2a = 5a`
+2. Multiplisere inn i parentes: `2(x + 3) = 2x + 6`
 
 ---
 
 ## Likninger
-En likning er en matematisk setning der to uttrykk er satt lik hverandre, for eksempel \( x + 3 = 7 \).
+En likning er en matematisk setning der to uttrykk er satt lik hverandre, for eksempel `x + 3 = 7`.
 
 ### Grunnleggende Regler
 - Isoler variabelen på én side av likningen.
 - Utfør samme operasjon på begge sider for å bevare likheten.
 
 ### Eksempler
-1. \( x + 5 = 12 \Rightarrow x = 12 - 5 = 7 \)
-2. \( 3x = 9 \Rightarrow x = \frac{9}{3} = 3 \)
+1. `x + 5 = 12` blir til `x = 12 - 5 = 7`
+2. `3x = 9` blir til `x = 9 / 3 = 3`
 
 ---
 
 ## Oppgavebank
-1. Beregn \( 5 + 2 \cdot 3 - (4 + 1) \)
-2. Forkort brøken: \( \frac{24}{36} \)
-3. Legg sammen brøkene: \( \frac{3}{4} + \frac{1}{8} \)
-4. Forenkle: \( 2x + 3x - 4 + x \)
-5. Løs likningen: \( 4y + 2 = 10 \)
-6. Løs likningen: \( 3(x - 2) = 12 \)
+1. Beregn `5 + 2 * 3 - (4 + 1)`
+2. Forkort brøken: `24/36`
+3. Legg sammen brøkene: `3/4 + 1/8`
+4. Forenkle: `2x + 3x - 4 + x`
+5. Løs likningen: `4y + 2 = 10`
+6. Løs likningen: `3(x - 2) = 12`
